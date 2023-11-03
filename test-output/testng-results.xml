@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-03T16:19:48 IST" name="Default suite" finished-at="2023-11-03T16:20:03 IST" duration-ms="15643">
+  <suite started-at="2023-11-03T16:28:07 IST" name="Default suite" finished-at="2023-11-03T16:28:23 IST" duration-ms="15399">
     <groups>
     </groups>
-    <test started-at="2023-11-03T16:19:48 IST" name="Default test" finished-at="2023-11-03T16:20:03 IST" duration-ms="15643">
+    <test started-at="2023-11-03T16:28:07 IST" name="Default test" finished-at="2023-11-03T16:28:23 IST" duration-ms="15399">
       <class name="qa.com.testcases.Hari_logout">
-        <test-method is-config="true" signature="inta()[pri:0, instance:qa.com.testcases.Hari_logout@3e11f9e9]" started-at="2023-11-03T16:19:48 IST" name="inta" finished-at="2023-11-03T16:19:52 IST" duration-ms="4365" status="PASS">
+        <test-method is-config="true" signature="inta()[pri:0, instance:qa.com.testcases.Hari_logout@3e11f9e9]" started-at="2023-11-03T16:28:07 IST" name="inta" finished-at="2023-11-03T16:28:12 IST" duration-ms="4614" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- inta -->
-        <test-method signature="log()[pri:0, instance:qa.com.testcases.Hari_logout@3e11f9e9]" started-at="2023-11-03T16:19:52 IST" name="log" finished-at="2023-11-03T16:20:03 IST" duration-ms="11231" status="PASS">
+        <test-method signature="log()[pri:0, instance:qa.com.testcases.Hari_logout@3e11f9e9]" started-at="2023-11-03T16:28:12 IST" name="log" finished-at="2023-11-03T16:28:23 IST" duration-ms="10738" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- log -->
